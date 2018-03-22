@@ -1,0 +1,63 @@
+# ---------------------------------------
+# Night ~ a simple theme for complex people by rb
+# ---------------------------------------
+# Based on: "Nightmare" for openbox by Maxim. Date June 01, 2014.
+
+# Menu Settings	
+menu.title.bg: raised
+menu.title.bg.color: #000
+menu.title.text.color: #fff
+menu.separator.color: #fff
+menu.items.bg: raised
+menu.items.bg.color: #000
+menu.items.text.color: #fff
+menu.items.disabled.text.color: #262626
+menu.items.active.bg: flat border
+menu.items.active.bg.color: #000
+menu.items.active.bg.border.color: #fff
+menu.items.active.text.color: #fff
+
+# Focused Window Settings
+window.active.title.bg: raised
+window.active.title.bg.color: #000
+window.active.handle.bg: raised
+window.active.handle.bg.color: #fff
+window.active.grip.bg: parentrelative
+window.active.label.bg: parentrelative
+window.active.label.text.color: #fff
+window.*.button.*.bg: parentrelative
+window.active.button.*.image.color: #fff
+window.active.button.*.pressed.image.color: #000
+window.active.button.disabled.image.color: #fff
+window.active.border.color: #262626
+
+# Unfocused Window Settings
+window.inactive.title.bg: raised
+window.inactive.title.bg.color: #fff
+window.inactive.handle.bg: raised
+window.inactive.handle.bg.color: #fff
+window.inactive.grip.bg: parentrelative
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #000
+window.inactive.button.*.image.color: #000
+
+# Global Width Settings
+padding.width: 1
+padding.height: 1
+border.width: 1
+window.handle.width: 0
+window.client.padding.width: 0
+menu.overlap.x: -5
+
+# Miscellaneous Settings
+border.color: #fff
+menu.border.color: #000
+
+# Osd		
+osd.hilight.bg: flat border
+osd.hilight.bg.color: #000
+osd.hilight.bg.border.color: #fff
+
+# Title Justification
+menu.title.text.justify: center
+window.label.text.justify: center
