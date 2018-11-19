@@ -6,7 +6,7 @@ A **simple** and **minimalist** openbox theme for complex people
 
 ## The MIT License (MIT)
 
-Copyright © 2018 ~ Night theme for openbox by rb based on Nightmare by Maxim 
+Copyright © 2018 ~ Night theme for openbox by vargasrc based on Nightmare by Maxim 
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
